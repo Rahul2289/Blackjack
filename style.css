@@ -28,3 +28,16 @@ footer{
     text-align-last:right;
     margin-top: 350px;
 }    
+div{
+    height: 200px;
+    width: 250px;
+    background-color: rgb(143, 194, 228);
+    color: #016f32;;
+    text-align: left;
+    border: solid 3px rgb(82, 77, 77);
+    border-radius: 5px;
+    box-shadow:5px 5px rgb(82, 77, 77);
+}
+div h1{
+    text-align: center;
+}
